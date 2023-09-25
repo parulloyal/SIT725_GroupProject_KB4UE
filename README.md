@@ -11,3 +11,6 @@ Backend: Node.js, Express.js
 Database: MongoDB
 Authentication: Passport.js
 Version Control: Git
+
+**SS**
+https://github.com/parulloyal/SIT725_GroupProject_KB4UE/blob/main/Register.png
