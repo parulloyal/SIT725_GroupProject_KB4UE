@@ -3,7 +3,7 @@
 **Features**
 
 User Registration: Users can create new accounts by providing their email address, username, and password.
-User Login: Registered users can log in using their email and password.
+User Login: Registered users can log in using their username and password.
 
 **In Progress**
 Password Reset: Users can request a password reset if they forget their password.
