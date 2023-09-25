@@ -13,4 +13,5 @@ Authentication: Passport.js
 Version Control: Git
 
 **SS**
-https://github.com/parulloyal/SIT725_GroupProject_KB4UE/blob/main/Register.png
+
+![](https://github.com/parulloyal/SIT725_GroupProject_KB4UE/blob/main/Register.png)<br>
